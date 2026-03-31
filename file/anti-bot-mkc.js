@@ -5,7 +5,7 @@
 // @description  High-speed parallel betting for Limbo, Dice, and Mines with auto-game detection.
 // @author       Kustify-Dev
 // @match        *://*.stake.ac/*
-// @match        *://*.stake.com/*
+// @match        *://*.stake.jp/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
